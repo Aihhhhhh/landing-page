@@ -1,1 +1,1 @@
-# landing-page
+This is a landing page project created using html and CSS Flexbox which has 5 different sections.
