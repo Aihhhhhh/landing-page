@@ -99,6 +99,7 @@ a{
     max-width: 1150px;
     padding: 0 30px;
     margin: 0 auto;
+    gap: 52px;
 }
 .illustration ul{
     display: flex;
@@ -110,19 +111,13 @@ a{
 .illustration img{
     max-width: 200px;
     min-height: 150px;
-    padding: 0 30px;
-    margin:  15px;
-    border-radius: 10px;
-    border-color: #e5e7eb;
-}
-.illustration p{
-    padding:15px;
 }
 .gallery h2{
     font-size: 36px;
     color:#1f2937;
     font-weight: bolder;
     margin-left: 400px;
+    margin-bottom: 30px;
 }
 .Quote{
     background-color: #e5e7eb;
